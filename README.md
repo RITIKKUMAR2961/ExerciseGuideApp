@@ -1,12 +1,31 @@
-# React + Vite
+# 🏋️‍♂️ ExerciseGuideApp  
+A modern and user-friendly application that helps users browse workouts, watch exercise demonstrations, and build a personalized fitness routine. This project highlights practical frontend + backend skills, API integration, and clean UI design.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📚 **Browse Exercises** based on body-part, muscle group, or equipment  
+- 🎥 **Exercise Demo Videos** for proper form & guidance  
+- 🔍 **Search & Filter** exercises using keywords  
+- 📝 **Create Workout Plans** and organize routines  
+- 📊 **Track Exercise History**  
+- 🌙 **Light / Dark Mode UI**  
+- ⚡ **Fast, responsive, and mobile-friendly design**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🏗️ Tech Stack
+
+| Layer       | Technology Used |
+|-------------|------------------|
+| **Frontend** | React / React Native |
+| **Backend**  | Node.js / Express (if added) |
+| **Database** | MongoDB / MySQL / Local Storage |
+| **UI/UX**    | Material UI / Custom CSS |
+| **API**      | 3rd-party Exercise API (optional) |
+
+---
+
+## 📂 Folder Structure
+
